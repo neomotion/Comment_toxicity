@@ -5,8 +5,7 @@ This repository contains a machine learning model designed to detect toxic comme
 The main component of this repository is:
 
 1. comment_toxicity_model.ipynb: Jupyter notebook for training the comment toxicity model and creating a Gradio web interface to test the model.
-2. toxicity_model.py: Python script containing the model architecture and functions for training and evaluation.
-3. data/: Directory containing the dataset used for training the model.
+2. data/: Directory containing the dataset used for training the model.
 
 # Running the Notebook
 1. Open the Notebook:
